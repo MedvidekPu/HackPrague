@@ -191,21 +191,8 @@ import sqlalchemy
 import pyodbc
 import urllib
 
-# setting up connection to SQL server
-
-params = urllib.parse.quote_plus("DRIVER={SQL Server Native Client 11.0};SERVER=FACINTB016\SERVER_SQL;DATABASE=gt_data;UID=MVA;PWD=Darkside1.")
-engine = sqlalchemy.create_engine("mssql+pyodbc:///?odbc_connect=%s" % params)
-
-
-
 df.to_sql("sreality_prodej", engine, if_exists='append')     
      
-     
-     
-     
-     
-
-
 # saving mined data to csv
 df.to_excel( "prodej_byty_praha.xlsx", index=False)
 
