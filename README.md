@@ -4,7 +4,8 @@ Welcome to MapInvest! Are you looking to buy an investment property in the Czech
 
 ## How does it work?
 
-Our motto is **simplicity** and **usefulness**. We aggregate real-time offers from popular property websites that see to sell or rent a flat, which we use to compute average price/rent per region, country and city in the Czech Republic. A heat map that displays average yields per region is presented to you at the front of the app. Based on the information you are shown, you may have first-hand information about what locality would suit you the best to place your money in the proper place.
+Our motto is **simplicity** and **usefulness**. 
+We aggregate real-time offers from popular property websites that see to sell or rent a flat, which we use to compute average price/rent per region, country and city in the Czech Republic. A heat map that displays average yields per region is presented to you at the front of the app. Based on the information you are shown, you may have first-hand information about what locality would suit you the best to place your money in the proper place.
 
 ### Select your preferences
 
