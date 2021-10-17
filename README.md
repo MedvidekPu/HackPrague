@@ -32,4 +32,4 @@ We display to you the most common calculations that an investor is worried about
 - Month-to-Month property change in prices, 
 - Time interval to find a tenant to your property.
 
-* Expected mortgage payment and repairs fund payment
+*Expected mortgage payment and repairs fund payment
