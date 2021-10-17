@@ -25,13 +25,10 @@ We connect the database to our front-end solution that take care of the UI neces
 ## Data analysis
 
 We display to you the most common calculations that an investor is worried about when looking to buy a housing that he is planning to rent to somebody else, such as
-
-**
 - Year on year change of property prices, 
 - Month-to-Month property change in prices, 
 - average rent offered in selected area, 
 - average monthly payment for the property, 
 - time interval to find a tenant to your property.
-**
 
 
