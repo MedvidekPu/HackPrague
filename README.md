@@ -20,7 +20,7 @@ We manage a database of offers proposed on websites mentioned above, so you don'
 
 ### Connect data to front-end
 
-We connect the database to our front-end solution that take care of the UI necessary for easy use on a map!
+We connect our database to an easy-to-use front-end solution in a form of a map!
 
 ### Data analysis
 
