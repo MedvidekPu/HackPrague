@@ -25,11 +25,11 @@ We connect the database to our front-end solution that take care of the UI neces
 ### Data analysis
 
 We display to you the most common calculations that an investor is worried about when looking to buy a housing that he is planning to rent to somebody else, such as
-- Average monthly yield for the selected criteria, 
-- Average monthly costs for the selected criteria*, 
-- Average received rent for the selected criteria, 
+- Expected monthly yield for the selected criteria, 
+- Expected monthly costs for the selected criteria*, 
+- Expected received rent for the selected criteria, 
 - Year-on-Year change of property prices, 
 - Month-to-Month property change in prices, 
-- Time interval to find a tenant to your property.
+- Expectd Time interval to find a tenant to your property.
 
 *Expected mortgage payment and repairs fund payment
