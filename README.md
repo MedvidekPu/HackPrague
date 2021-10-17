@@ -11,18 +11,18 @@ Our motto is **simplicity!** We aggregate real-time offers from popular property
 You may select your budget as well as desired return on investment. Based on the information given to the app, suitable offers are displayed to you to select from. You may additionaly filter for properties that can be financed through a mortgage or from your own financing (e.g. cooperative ownerships can't be financed through a mortgage).
 After the selection of the locality that you find most attractive based on the data provided, a detailed report will be shown to you that present the key decision-making information for you to find the best investment opportunity!
 
-# Technical description
+## Technical description
 
-## Scrape data
+### Scrape data
 Live-time scraped property websites for offers: sreality.cz, bezrealitky.cz, realitymix.cetnrum.cz, reality.indes.cz.
 
 We manage a database of offers proposed on websites mentioned above, so you don't have to go through all of them to look for the best fit.
 
-## Connect data to front-end
+### Connect data to front-end
 
 We connect the database to our front-end solution that take care of the UI necessary for easy use on a map!
 
-## Data analysis
+### Data analysis
 
 We display to you the most common calculations that an investor is worried about when looking to buy a housing that he is planning to rent to somebody else, such as
 - Year on year change of property prices, 
