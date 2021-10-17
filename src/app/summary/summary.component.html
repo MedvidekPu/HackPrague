@@ -1,1 +1,38 @@
-<p>summary works!</p>
+<div class="sum" *ngIf="chosenRegion$ | async as region">
+<!--  <div>-->
+<!--    <h3>Region:      </h3>-->
+<!--    <p>   </p>-->
+<!--    <p>Avg. price:  {{region.prumer_prodej}}CZK</p>-->
+<!--    <p>Price per m2:  {{region.pronajem_za_m_2}}CZK</p>-->
+<!--    <p>Rent per m2: {{region.pronajem_za_m_2}}CZK</p>-->
+<!--  </div>-->
+
+  <table>
+    <tr>
+      <th>Region</th>
+      <th>{{region.kraje}}</th>
+    </tr>
+    <tr>
+      <td>Avg. rent:</td>
+      <td>{{region.prumer_pronajem}}CZK</td>
+    </tr>
+    <tr>
+      <td>Avg. price:</td>
+      <td>{{region.prumer_prodej}}CZK</td>
+    </tr>
+    <tr>
+      <td>Yield:</td>
+      <td>{{region.yield}}%</td>
+    </tr>
+    <tr>
+      <td>Price per m2:</td>
+      <td>{{region.cena_za_m2}}CZK</td>
+    </tr>
+    <tr>
+      <td>Rent per m2:</td>
+      <td>{{region.pronajem_za_m_2}}CZK</td>
+    </tr>
+  </table>
+</div>
+
+

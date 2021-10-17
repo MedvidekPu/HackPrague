@@ -1,1 +1,13 @@
-<p>list works!</p>
+<div *ngIf="flats">
+  <mat-card *ngFor="let flat of flats" class="card">
+    <mat-card-title>{{flat.Typ}}   {{flat.Plocha}}m2    {{flat.Cena}}Kč</mat-card-title>
+    <mat-card-subtitle>{{flat.Adresa}}</mat-card-subtitle>
+    <mat-card-actions>
+      <button mat-button>view</button>
+    </mat-card-actions>
+  </mat-card>
+  <div class="btn-more">
+    <h3>more >></h3>
+  </div>
+</div>
+
