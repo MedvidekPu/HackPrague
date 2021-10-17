@@ -1,7 +1,5 @@
 # MapInvest
 
-MapInvest
-
 Welcome to MapInvest! Are you looking to buy an investment property in the Czech Republic that you would offer as a rental property? You probably have questions about where to start to look for such a property. With MapInvest you don't have to worry about the opportunity that is available on the market at the moment, we are here for you to navigate through the complex system of the property market.
 
 ## How does it work?
@@ -28,6 +26,6 @@ We connect the database to our front-end solution that take care of the UI neces
 
 We display to you the most common calculations that an investor is worried about when looking to buy a housing that he is planning to rent to somebody else, such as
 
-**Year on year change of property prices, Month-to-Month property change in prices, average rent offered in selected area, average monthly payment for the property, time interval to find a tenant to your property **
+** Year on year change of property prices, Month-to-Month property change in prices, average rent offered in selected area, average monthly payment for the property, time interval to find a tenant to your property **
 
 
