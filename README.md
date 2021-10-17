@@ -25,7 +25,7 @@ We connect the database to our front-end solution that take care of the UI neces
 ### Data analysis
 
 We display to you the most common calculations that an investor is worried about when looking to buy a housing that he is planning to rent to somebody else, such as
-- Average yield for the selected criteria, 
+- Average monthly yield for the selected criteria, 
 - Average monthly costs for the selected criteria*, 
 - Average rent for the selected criteria, 
 - Year-on-Year change of property prices, 
